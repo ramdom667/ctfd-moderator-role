@@ -1,0 +1,6 @@
+{
+  "name": "Moderator Role",
+  "route": "/moderator-check",
+  "description": "Ajoute des restrictions aux admins désignés pour créer un rôle modérateur.",
+  "version": "1.0"
+}
